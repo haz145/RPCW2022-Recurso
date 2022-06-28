@@ -1,0 +1,29 @@
+extends layout
+
+block content
+    h1 Lista de Movimentos
+    
+    ul
+    each d in data
+        li
+            b ID: 
+            | #{d._id}
+            ul 
+                li
+                    b Tipo: 
+                    | #{d.tipo}
+                li
+                    b Data: 
+                    | #{d.data}
+                li
+                    b Valor: 
+                    | #{d.valor}
+                li
+                    b Entidade: 
+                    | #{d.entidade}
+                li
+                    b Descrição: 
+                    | #{d.descricao}
+        
+    p
+        a(href="/") Voltar à Página Inicial

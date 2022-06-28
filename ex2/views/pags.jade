@@ -1,0 +1,14 @@
+extends layout
+
+block content
+    h1 Lista de Pagamentos
+    ul
+    each d in data
+        li
+            b Fração: 
+            | #{d._id} &nbsp;
+            b Meses Pagos: 
+            | #{d.meses_pagos}
+
+    p
+        a(href="/") Voltar à Página Inicial

@@ -1,0 +1,10 @@
+
+Sara Alexandra Gomes Marques
+pg47657
+
+1. 
+Os ficheiros jsons necessários foram gerados a partir do script de python jsonscript.py e importados manualmente para a base de dados do Mongo.
+A aplicação opera na porta 3000.
+
+2.
+A aplicação opera na porta 3001.

@@ -1,0 +1,250 @@
+[
+    {
+        "_id": "2020/001",
+        "tipo": "Despesa",
+        "data": "2020-01-04",
+        "valor": 7.28,
+        "entidade": "CGD",
+        "descricao": "Manutenção da conta"
+    },
+    {
+        "_id": "2020/002",
+        "tipo": "Receita",
+        "data": "2020-01-06",
+        "valor": 64.0,
+        "entidade": "7Esq",
+        "descricao": "Janeiro"
+    },
+    {
+        "_id": "2020/003",
+        "tipo": "Receita",
+        "data": "2020-01-06",
+        "valor": 406.62,
+        "entidade": "2Dto",
+        "descricao": "Abril a Dezembro de 2019"
+    },
+    {
+        "_id": "2020/004",
+        "tipo": "Despesa",
+        "data": "2020-01-08",
+        "valor": 222.65,
+        "entidade": "EDP",
+        "descricao": "Luz"
+    },
+    {
+        "_id": "2020/005",
+        "tipo": "Receita",
+        "data": "2020-01-16",
+        "valor": 45.18,
+        "entidade": "7Dto",
+        "descricao": "Janeiro"
+    },
+    {
+        "_id": "2020/006",
+        "tipo": "Despesa",
+        "data": "2020-02-01",
+        "valor": 7.28,
+        "entidade": "CGD",
+        "descricao": "Manutenção da conta"
+    },
+    {
+        "_id": "2020/007",
+        "tipo": "Receita",
+        "data": "2020-02-04",
+        "valor": 64.0,
+        "entidade": "5Esq",
+        "descricao": "Fevereiro"
+    },
+    {
+        "_id": "2020/008",
+        "tipo": "Receita",
+        "data": "2020-02-06",
+        "valor": 64.0,
+        "entidade": "7Esq",
+        "descricao": "Fevereiro"
+    },
+    {
+        "_id": "2020/009",
+        "tipo": "Despesa",
+        "data": "2020-01-20",
+        "valor": 439.77,
+        "entidade": "Kone",
+        "descricao": "Manutenção dos elevadores: 1º trimestre"
+    },
+    {
+        "_id": "2020/010",
+        "tipo": "Receita",
+        "data": "2020-02-12",
+        "valor": 384.0,
+        "entidade": "1Esq e 3Esq",
+        "descricao": "Janeiro Fevereiro e Março"
+    },
+    {
+        "_id": "2020/011",
+        "tipo": "Receita",
+        "data": "2020-02-20",
+        "valor": 45.18,
+        "entidade": "7Dto",
+        "descricao": "Fevereiro"
+    },
+    {
+        "_id": "2020/012",
+        "tipo": "Despesa",
+        "data": "2020-02-24",
+        "valor": 20.0,
+        "entidade": "Serralheiro",
+        "descricao": "Concerto do trinco da porta"
+    },
+    {
+        "_id": "2020/013",
+        "tipo": "Despesa",
+        "data": "2020-02-24",
+        "valor": 174.3,
+        "entidade": "CMB",
+        "descricao": "Inspeção dos elevadores"
+    },
+    {
+        "_id": "2020/014",
+        "tipo": "Receita",
+        "data": "2020-02-24",
+        "valor": 194.3,
+        "entidade": "1Dto",
+        "descricao": "Acertos: Janeiro Fevereiro Março Abril e 13.58 de Maio"
+    },
+    {
+        "_id": "2020/015",
+        "tipo": "Receita",
+        "data": "2020-03-11",
+        "valor": 271.08,
+        "entidade": "5Dto",
+        "descricao": "Janeiro a Junho"
+    },
+    {
+        "_id": "2020/016",
+        "tipo": "Despesa",
+        "data": "2020-03-11",
+        "valor": 1655.0,
+        "entidade": "PluriRapel",
+        "descricao": "Reparação das fachadas"
+    },
+    {
+        "_id": "2020/017",
+        "tipo": "Receita",
+        "data": "2020-02-26",
+        "valor": 64.0,
+        "entidade": "5Esq",
+        "descricao": "Março"
+    },
+    {
+        "_id": "2020/018",
+        "tipo": "Receita",
+        "data": "2020-02-29",
+        "valor": 542.16,
+        "entidade": "3Dto",
+        "descricao": "Janeiro a Dezembro"
+    },
+    {
+        "_id": "2020/019",
+        "tipo": "Despesa",
+        "data": "2020-03-04",
+        "valor": 236.59,
+        "entidade": "EDP",
+        "descricao": "Luz"
+    },
+    {
+        "_id": "2020/020",
+        "tipo": "Receita",
+        "data": "2020-03-06",
+        "valor": 64.0,
+        "entidade": "7Esq",
+        "descricao": "Março"
+    },
+    {
+        "_id": "2020/021",
+        "tipo": "Despesa",
+        "data": "2020-03-07",
+        "valor": 7.28,
+        "entidade": "CGD",
+        "descricao": "Manutenção da conta"
+    },
+    {
+        "_id": "2020/022",
+        "tipo": "Receita",
+        "data": "2020-03-15",
+        "valor": 45.18,
+        "entidade": "7Dto",
+        "descricao": "Março"
+    },
+    {
+        "_id": "2020/023",
+        "tipo": "Receita",
+        "data": "2020-03-30",
+        "valor": 64.0,
+        "entidade": "5Esq",
+        "descricao": "Abril "
+    },
+    {
+        "_id": "2020/024",
+        "tipo": "Despesa",
+        "data": "2020-04-04",
+        "valor": 7.28,
+        "entidade": "CGD",
+        "descricao": "Manutenção da conta"
+    },
+    {
+        "_id": "2020/025",
+        "tipo": "Receita",
+        "data": "2020-04-06",
+        "valor": 64.0,
+        "entidade": "7Esq",
+        "descricao": "Abril"
+    },
+    {
+        "_id": "2020/026",
+        "tipo": "Receita",
+        "data": "2020-04-07",
+        "valor": 225.9,
+        "entidade": "6Dto",
+        "descricao": "Abril a Agosto"
+    },
+    {
+        "_id": "2020/027",
+        "tipo": "Receita",
+        "data": "2020-04-14",
+        "valor": 45.18,
+        "entidade": "7Dto",
+        "descricao": "Abril"
+    },
+    {
+        "_id": "2020/028",
+        "tipo": "Despesa",
+        "data": "2020-04-15",
+        "valor": 207.98,
+        "entidade": "Vizinhos",
+        "descricao": "Luz Comum"
+    },
+    {
+        "_id": "2020/029",
+        "tipo": "Despesa",
+        "data": "2020-04-15",
+        "valor": 1080.0,
+        "entidade": "Limpeza",
+        "descricao": "Limpeza 2020"
+    },
+    {
+        "_id": "2020/030",
+        "tipo": "Receita",
+        "data": "2020-04-15",
+        "valor": 542.16,
+        "entidade": "4Dto",
+        "descricao": "Janeiro a Dezembro"
+    },
+    {
+        "_id": "2020/031",
+        "tipo": "Despesa",
+        "data": "2020-04-01",
+        "valor": 439.77,
+        "entidade": "Kone",
+        "descricao": "Manutenção dos elevadores: 2º trimestre"
+    }
+]

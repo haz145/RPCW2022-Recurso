@@ -1,0 +1,124 @@
+[
+    {
+        "_id": "1Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr"
+        ]
+    },
+    {
+        "_id": "2Dto",
+        "meses_pagos": []
+    },
+    {
+        "_id": "3Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr",
+            "mai",
+            "jun",
+            "jul",
+            "ago",
+            "set",
+            "out",
+            "nov",
+            "dez"
+        ]
+    },
+    {
+        "_id": "4Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr",
+            "mai",
+            "jun",
+            "jul",
+            "ago",
+            "set",
+            "out",
+            "nov",
+            "dez"
+        ]
+    },
+    {
+        "_id": "5Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr",
+            "mai",
+            "jun"
+        ]
+    },
+    {
+        "_id": "6Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr",
+            "mai",
+            "jun",
+            "jul",
+            "ago"
+        ]
+    },
+    {
+        "_id": "7Dto",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr"
+        ]
+    },
+    {
+        "_id": "8Dto",
+        "meses_pagos": []
+    },
+    {
+        "_id": "1Esq",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar"
+        ]
+    },
+    {
+        "_id": "3Esq",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar"
+        ]
+    },
+    {
+        "_id": "5Esq",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr"
+        ]
+    },
+    {
+        "_id": "7Esq",
+        "meses_pagos": [
+            "jan",
+            "fev",
+            "mar",
+            "abr"
+        ]
+    },
+    {
+        "_id": "Loja",
+        "meses_pagos": []
+    }
+]
